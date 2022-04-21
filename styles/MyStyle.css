@@ -1,0 +1,23 @@
+.customheader{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.customtext{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.customnavi{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.fontcolor
+{
+    color: beige;
+}
+.textalign{
+    text-align: center;
+}

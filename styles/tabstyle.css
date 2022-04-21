@@ -1,0 +1,64 @@
+body{
+    background-image: url('../home/images/Tableau-bg.jpg.jpg');
+}
+.panel{
+    background-color:white;
+    border:2px solid white;
+    position: relative;
+}
+.dom{
+    top: 5px;
+    height: 150px;
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color:darkgreen;
+}
+.subhead{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.navihead{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.navi{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}
+.elallign{
+    align-items: center;
+}
+
+
+.box1{
+    border: solid;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+
+.box2{
+    padding: 30px;
+}
+
+.box3{
+    margin: 5px;
+}
+
+.des1{
+    margin-bottom: 100px;
+    align-items: center;
+    align-content: center;
+    
+}
+.container{
+    text-align: center;
+}
